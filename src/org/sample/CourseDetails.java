@@ -30,6 +30,25 @@ public class CourseDetails {
 
 		String ss = "Java programm";
 		System.out.println("String value :" + ss);
+		
+		String ss1 = "Java programm";
+		System.out.println("String value :" + ss);
+		
+		String ss2 = "Java programm";
+		System.out.println("String value :" + ss);
+		
+		String ss3 = "Java programm";
+		System.out.println("String value :" + ss);
+		
+		String ss4 = "Java programm";
+		System.out.println("String value :" + ss);
+		
+		String ss5 = "Java programm";
+		System.out.println("String value :" + ss);
+		String ss6 = "Java programm";
+		System.out.println("String value :" + ss);
+		String ss7 = "Java programm";
+		System.out.println("String value :" + ss);
 
 	}
 
