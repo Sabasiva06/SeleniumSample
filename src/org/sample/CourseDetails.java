@@ -31,6 +31,16 @@ public class CourseDetails {
 		String ss = "Java programm";
 		System.out.println("String value :" + ss);
 
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+
 	}
 
 }
